@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+sentence-transformers==2.2.2
+faiss-cpu
+groq
+python-dotenv==1.0.0
+streamlit
+huggingface-hub<0.17
